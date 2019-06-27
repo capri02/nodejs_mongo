@@ -1,0 +1,13 @@
+{
+  "MongoDB": {
+    "Driver": "mongodb://",
+    "Host": "localhost",
+    "Db": "vechile",
+    "Options": {
+      "autoIndex": false,
+      "reconnectTries": 2,
+      "reconnectInterval": 500,
+      "bufferMaxEntries": 0
+    }
+  }
+}
